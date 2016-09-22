@@ -1,7 +1,7 @@
 import os
 import sys
 
-print("Setup for ssh_stealer.py (Python 2x)")
+print("Setup for ssh_stealer.py (Python 2xx)")
 print("")
 print ("Downloading colorama,pyfiglet,termcolor for ASCII Banner:")
 print ("")
