@@ -11,8 +11,5 @@ And also THANK YOU FOR DOWNLOADING!!
 
 Manuelly download:
 
-pip install git+https://github.com/pwaller/pyfiglet
-pip install termcolor
-pip install colorama
-pip install pexpect
+pip install git+https://github.com/pwaller/pyfiglet                                                                             pip install termcolor                                                                                                            pip install colorama                                                                                                             pip install pexpect      
 
