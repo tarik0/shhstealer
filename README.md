@@ -6,5 +6,5 @@ This program maded for only education not for attacks.If someone got trouble for
 Setup will download required libraries.If you don't trust you can just make it manually.
 This codes works only in Kali Linux (or maybe in Debian,Ubuntu)
 
-And also THANK YOU FOR DOWNLOADING!
+And also THANK YOU FOR DOWNLOADING!!
 
