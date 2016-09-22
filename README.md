@@ -7,6 +7,6 @@ Setup will download required libraries.If you don't trust you can just make it m
 First download and execute the setup file then try to execute "ssh_stealer.py".
 This codes works only in Kali Linux (or maybe in Debian,Ubuntu)
 
-And also THANK YOU FOR DOWNLOADING!!
+And also THANK YOU FOR DOWNLOADING!! 
 
 
